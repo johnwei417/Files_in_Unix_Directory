@@ -1,0 +1,25 @@
+Script started on Sun Feb 24 19:24:16 2019
+[?1034hbash-3.2$ make
+gcc -Wall -Wpedantic -std=c99 *.c -g -o 3240Assignment2
+bash-3.2$ make test
+./3240Assignment2 < .
+All files under this directory:
+FileName: ./3240Assignment2
+FileName: ./.DS_Store
+FileName: ./makefile
+FileName: ./typescript
+FileName: ./A2README.md
+FileName: ./error.c
+FileName: ./FileDir.c
+FileName: ./3240Assignment2.dSYM/Contents/Resources/DWARF/3240Assignment2
+FileName: ./3240Assignment2.dSYM/Contents/Resources/DWARF
+FileName: ./3240Assignment2.dSYM/Contents/Resources
+FileName: ./3240Assignment2.dSYM/Contents/Info.plist
+FileName: ./3240Assignment2.dSYM/Contents
+FileName: ./3240Assignment2.dSYM
+FileName: ./apue.h
+FileName: .
+bash-3.2$ exit
+exit
+
+Script done on Sun Feb 24 19:24:22 2019
